@@ -1,5 +1,7 @@
 # An Introduction to Bayesian Inference
 
+## Dave Kinkead, 2013
+
 Image the following scenario...
 
 > You're the Duty Watch Officer for the US Navy 3rd fleet.  You've just been advised that the USS Scorpion, a nuclear attack submarine, has gone missing off the Azores in the Atlantic Ocean with 99 crew onboard.  Your mission is to organise the search and rescue plan and direct the search efforts to the most likely location because the crew, if they are still alive, will run out of oxygen before you can search everywhere.   Where should you search first?
